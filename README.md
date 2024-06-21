@@ -29,8 +29,8 @@ PassOp is a secure, user-friendly password manager designed to keep your passwor
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/passop.git
-    cd passop
+    git clone (https://github.com/TechWithAkash/PassOp.git)
+    cd passOp
     ```
 
 2. Install the required packages:
